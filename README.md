@@ -1,7 +1,7 @@
-# Poro 2.0: Title-only Sentiment Analysis
+# Poro 2.1: Title-only Sentiment Analysis
 
 ## Introduction
-A simple title-only sentiment analysis model using a distilled version of BERT model. The model is trained on the MovieLens1M dataset and achieves a multi-label F1 score of 0.2733 on macro-average and 0.4443 on micro-average.
+A simple title-only sentiment analysis model using a distilled version of BERT model. The model is trained on the MovieLens1M dataset.
 
 ## Authors
 - Duy Dang - <dduy193.cs@gmail.com>
