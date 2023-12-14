@@ -1,3 +1,9 @@
+---
+title: Poro_2.1
+app_file: app.ipynb
+sdk: gradio
+sdk_version: 3.48.0
+---
 # Poro 2.0: Title-only Sentiment Analysis
 
 ## Introduction
