@@ -1,3 +1,9 @@
+---
+title: Movie-Genres-Multilabel_MultiPoro
+app_file: app.py
+sdk: gradio
+sdk_version: 3.48.0
+---
 # Poro 2.0: Title-only Sentiment Analysis
 
 ## Introduction
